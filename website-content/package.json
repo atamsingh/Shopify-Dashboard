@@ -1,0 +1,11 @@
+{
+  "name": "GoarifyIt",
+  "version": "1.0.0",
+  "description": "Sample App Description.",
+  "author": "A. Singh",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "x",
+    "fs":"x"
+  }
+}
